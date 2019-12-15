@@ -1,0 +1,11 @@
+C:\Users\Joker\Desktop\Proyecto FINAL\WcfSampleProject\bin\WcfSampleProject.dll.config
+C:\Users\Joker\Desktop\Proyecto FINAL\WcfSampleProject\bin\WcfSampleProject.dll
+C:\Users\Joker\Desktop\Proyecto FINAL\WcfSampleProject\bin\WcfSampleProject.pdb
+C:\Users\Joker\Desktop\Proyecto FINAL\WcfSampleProject\bin\EntityFramework.dll
+C:\Users\Joker\Desktop\Proyecto FINAL\WcfSampleProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Joker\Desktop\Proyecto FINAL\WcfSampleProject\bin\EntityFramework.xml
+C:\Users\Joker\Desktop\Proyecto FINAL\WcfSampleProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Joker\Desktop\Proyecto FINAL\WcfSampleProject\obj\Debug\WcfSampleProject.csproj.CopyComplete
+C:\Users\Joker\Desktop\Proyecto FINAL\WcfSampleProject\obj\Debug\WcfSampleProject.dll
+C:\Users\Joker\Desktop\Proyecto FINAL\WcfSampleProject\obj\Debug\WcfSampleProject.pdb
+C:\Users\Joker\Desktop\Proyecto FINAL\WcfSampleProject\obj\Debug\WcfSampleProject.csprojAssemblyReference.cache
