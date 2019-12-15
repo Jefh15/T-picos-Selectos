@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "updateCategory";
+}
+
+<h2>updateCategory</h2>
+
+<form method="post" action="@Url.Action("updateCategory")">
+    category_id:<input type="text" name="category_id" />
+    name:<input type="text" name="name" />
+    last_update:<input type="text" name="last_update" />
+    <input type="submit" value="Update" />
+</form>

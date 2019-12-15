@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "deleteCategory";
+}
+
+<h2>deleteCategory</h2>
+
+<form method="post" action="@Url.Action("deleteCategory")">
+    category_id:<input type="text" name="id" />
+    @*name:<input type="text" name="name" />
+    last_update:<input type="text" name="last_update" />*@
+    <input type="submit" value="Delete" />
+</form>
